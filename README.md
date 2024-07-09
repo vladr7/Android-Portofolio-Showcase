@@ -20,8 +20,6 @@
 -->
 [![LinkedIn][linkedin-shield]][linkedin-url]
 
-
-
 <!-- PROJECT LOGO -->
 <br />
 <div align="center">
@@ -46,125 +44,6 @@
 
 
 
-<!-- TABLE OF CONTENTS -->
-<details>
-  <summary>Table of Contents</summary>
-  <ol>
-    <li>
-      <a href="#about-the-project">About The Project</a>
-      <ul>
-        <li><a href="#built-with">Built With</a></li>
-      </ul>
-    </li>
-    <li>
-      <a href="#getting-started">Getting Started</a>
-      <ul>
-        <li><a href="#prerequisites">Prerequisites</a></li>
-        <li><a href="#installation">Installation</a></li>
-      </ul>
-    </li>
-    <li><a href="#usage">Usage</a></li>
-    <li><a href="#contributing">Contributing</a></li>
-    <li><a href="#license">License</a></li>
-    <li><a href="#contact">Contact</a></li>
-    <li><a href="#contact">Published</a></li>
-    <li><a href="#acknowledgments">Acknowledgments</a></li>
-  </ol>
-</details>
-
-
-
-<!-- ABOUT THE PROJECT -->
-## About The Project
-
-This project was built with an intention to learn even more about some Android specifics but mostly I was curious about how to implement an AI listener and use it in some App. I integrated AI sound recognition with this API: [TfLite](https://www.tensorflow.org/lite). See this for specific implementation: [Integration](https://www.tensorflow.org/lite/android/tutorials/audio_classification) or just check out how I implemented.
-
-### Built With
-
-* [Android Studio](https://developer.android.com/studio)
-* [Firebase](https://firebase.google.com/)
-* [Kotlin](https://kotlinlang.org/)
-* [Compose](https://developer.android.com/jetpack/compose)
-* [Coroutines](https://developer.android.com/studio](https://kotlinlang.org/docs/coroutines-overview.html))
-* [Flows](https://developer.android.com/kotlin/flow)
-* [DataStore](https://developer.android.com/topic/libraries/architecture/datastore)
-* [HILT](https://dagger.dev/hilt/)
-* [TfLite](https://www.tensorflow.org/lite)
-
-
-<p align="right">(<a href="#readme-top">back to top</a>)</p>
-
-
-
-<!-- GETTING STARTED -->
-## Getting Started
-
-To get a local copy up and running follow these simple example steps.
-
-### Prerequisites
-
-* Android studio
-
-You can download it here: https://developer.android.com/studio
-
-### Installation
-
-You just Clone the repo 
-   ```sh
-   git clone https://github.com/vladr7/FindMyPhoneClap.git
-   ```
-
-And then import it to Android Studio
-
-<!-- USAGE EXAMPLES -->
-## Usage
-
-Here i will post some screenshots to ilustrate how the app works.
-
-1. Tap on the button for the app to start listening
-
- <img src="https://github.com/vladr7/FindMyPhoneClap/blob/main/images/ss1.png" width="320">
-
-2. Adjust volume & sensitivity
- 
- <img src="https://github.com/vladr7/FindMyPhoneClap/blob/main/images/ss2.png" width="320">
-
-3. Configure more settings
-
- <img src="https://github.com/vladr7/FindMyPhoneClap/blob/main/images/ss3.png" width="320">
-
- <img src="https://github.com/vladr7/FindMyPhoneClap/blob/main/images/ss4.png" width="320">
-
- Video demo
-
- [Demo](https://github.com/vladr7/FindMyPhoneClap/assets/93397265/e8642a80-97da-4d4c-9a6e-c9aacec084c4)
-
-<!-- CONTRIBUTING -->
-## Contributing
-
-Contributions are what make the open source community such an amazing place to learn, inspire, and create. Any contributions you make are **greatly appreciated**.
-
-If you have a suggestion that would make this better, please fork the repo and create a pull request. You can also simply open an issue with the tag "enhancement".
-Don't forget to give the project a star! Thanks again!
-
-1. Fork the Project
-2. Create your Feature Branch (`git checkout -b feature/AmazingFeature`)
-3. Commit your Changes (`git commit -m 'Add some AmazingFeature'`)
-4. Push to the Branch (`git push origin feature/AmazingFeature`)
-5. Open a Pull Request
-
-<p align="right">(<a href="#readme-top">back to top</a>)</p>
-
-
-
-<!-- LICENSE -->
-## License
-
-Distributed under the Apache-2.0 License. See `LICENSE.txt` for more information.
-
-<p align="right">(<a href="#readme-top">back to top</a>)</p>
-
-
 
 <!-- CONTACT -->
 ## Contact
@@ -172,23 +51,6 @@ Distributed under the Apache-2.0 License. See `LICENSE.txt` for more information
 Email: ricean.vlad7@gmail.com
 
 Linkedin: [Profile](https://www.linkedin.com/in/vlad-ricean-12155622a/)
-
-Project Link: [Link](https://github.com/vladr7/FindMyPhoneClap)
-
-<p align="right">(<a href="#readme-top">back to top</a>)</p>
-
-## Published
-
-App is published on play store: [Playstore](https://play.google.com/store/apps/details?id=com.riviem.findmyphoneclap&hl=en)
-
-<!-- ACKNOWLEDGMENTS -->
-## Acknowledgments
-
-* [Android Icons](https://icons8.com/icons/set/android)
-
-<p align="right">(<a href="#readme-top">back to top</a>)</p>
-
-
 
 <!-- MARKDOWN LINKS & IMAGES -->
 <!-- https://www.markdownguide.org/basic-syntax/#reference-style-links -->
