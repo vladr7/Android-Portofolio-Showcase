@@ -18,10 +18,6 @@
 *** for contributors-url, forks-url, etc. This is an optional, concise syntax you may use.
 *** https://www.markdownguide.org/basic-syntax/#reference-style-links
 -->
-[![Contributors][contributors-shield]][contributors-url]
-[![Forks][forks-shield]][forks-url]
-[![Stargazers][stars-shield]][stars-url]
-[![Issues][issues-shield]][issues-url]
 [![LinkedIn][linkedin-shield]][linkedin-url]
 
 
@@ -196,14 +192,6 @@ App is published on play store: [Playstore](https://play.google.com/store/apps/d
 
 <!-- MARKDOWN LINKS & IMAGES -->
 <!-- https://www.markdownguide.org/basic-syntax/#reference-style-links -->
-[contributors-shield]: https://img.shields.io/github/contributors/vladr7/FindMyPhoneClap.svg?style=for-the-badge
-[contributors-url]: https://github.com/vladr7/FindMyPhoneClap/graphs/contributors
-[forks-shield]: https://img.shields.io/github/forks/vladr7/FindMyPhoneClap.svg?style=for-the-badge
-[forks-url]: https://github.com/vladr7/FindMyPhoneClap/network/members
-[stars-shield]: https://img.shields.io/github/stars/vladr7/FindMyPhoneClap.svg?style=for-the-badge
-[stars-url]: https://github.com/vladr7/FindMyPhoneClap/stargazers
-[issues-shield]: https://img.shields.io/github/issues/vladr7/FindMyPhoneClap.svg?style=for-the-badge
-[issues-url]: https://github.com/vladr7/FindMyPhoneClap/issues
 [linkedin-shield]: https://img.shields.io/badge/-LinkedIn-black.svg?style=for-the-badge&logo=linkedin&colorB=555
 [linkedin-url]: https://www.linkedin.com/in/vlad-ricean-12155622a
 
