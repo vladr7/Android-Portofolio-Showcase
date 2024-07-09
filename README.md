@@ -36,7 +36,7 @@
     <br />
     <br />
     ·
-    <a href="https://github.com/vladr7/Android-Portofolio-Showcase/issues">Report Mistakes</a>
+    <a href="https://github.com/vladr7/Android-Portofolio-Showcase/issues">Report Anything</a>
     ·
     <a href="https://github.com/vladr7/Android-Portofolio-Showcase/issues">Request Info</a>
   </p>
