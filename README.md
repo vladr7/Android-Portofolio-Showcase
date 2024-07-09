@@ -58,7 +58,7 @@ If you wish to talk to me for some reason then text me! :]
 <!-- GETTING STARTED -->
 ## Getting Started
 
-I find the best way to know of what I'm capable of is to check out these apps I've built for fun!!
+I find the best way to know of what I'm capable of is to check out these apps I've built!!
 
 1. [Ema's Kitchen](https://github.com/vladr7/EmaFoods) <img src="https://github.com/vladr7/Android-Portofolio-Showcase/blob/main/images/logoema.png" width="30" align="middle">
 
