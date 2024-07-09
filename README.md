@@ -26,7 +26,7 @@
 <br />
 <div align="center">
   <a href="https://github.com/othneildrew/Best-README-Template">
-    <img src="images/logo2.png" alt="Logo" width="200" height="300">
+    <img src="images/logo2.png" alt="Logo" width="240" height="300">
   </a>
 
   <h3 align="center">Android Portofolio Showcase</h3>
