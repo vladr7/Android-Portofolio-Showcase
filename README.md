@@ -31,14 +31,6 @@
 
   <p align="center">
   Here I demonstrate my work (and skills) as Android Developer
-    <br />
-    <a href="https://github.com/vladr7/FindMyPhoneClap"><strong>Explore the docs »</strong></a>
-    <br />
-    <br />
-    ·
-    <a href="https://github.com/vladr7/FindMyPhoneClap/issues">Report Bug</a>
-    ·
-    <a href="https://github.com/vladr7/FindMyPhoneClap/issues">Request Feature</a>
   </p>
 </div>
 
