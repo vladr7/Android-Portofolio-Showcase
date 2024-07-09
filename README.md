@@ -48,7 +48,7 @@ Hi! :] I'm Vlad, working as Android Developer since 2021.
 
 I've starting to really like android development, especially since I begun working with compose, flows and coroutines!! 
 
-I like going outside on walks, play tennis, ski, watch good movies (LOTR is my fav), playing games and recently started creating games for fun :], and reading good books. 
+I like going outside on walks, play tennis, ski, watch good movies (LOTR is my fav), playing games and recently started creating games for fun :], and reading good books. I also like making jokes and laugh (who doesen't??) :]].
 
 Overall I really enjoy creating stuff, I consider myself an artist and all the Apps/Games are my art. (highly recommend this book about how to make art: [The Creative Act](https://www.goodreads.com/book/show/60965426-the-creative-act). 
 
