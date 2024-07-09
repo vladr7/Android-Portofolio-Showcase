@@ -34,7 +34,13 @@
   </p>
 </div>
 
+## You can get a good grasp of what I am capable by taking a look into these Apps I've built for fun
 
+1. [Ema's Kitchen](https://github.com/vladr7/EmaFoods)
+
+2. [2ClapsAway](https://github.com/vladr7/FindMyPhoneClap)
+
+3. [LightAlarm](https://github.com/vladr7/SunAlarm)
 
 
 <!-- CONTACT -->
