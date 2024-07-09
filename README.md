@@ -60,7 +60,7 @@ If you wish to talk to me for some reason then text me! :]
 
 I find the best way to know of what I'm capable of is to check out these apps I've built for fun!!
 
-1. [Ema's Kitchen](https://github.com/vladr7/EmaFoods)
+1. [Ema's Kitchen](https://github.com/vladr7/EmaFoods)  <img src="https://github.com/vladr7/SunAlarm/blob/main/images/logo2.png" width="30">
 
 2. [2ClapsAway](https://github.com/vladr7/FindMyPhoneClap)
 
