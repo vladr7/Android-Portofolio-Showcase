@@ -60,11 +60,20 @@ If you wish to talk to me for some reason then text me! :]
 
 I find the best way to know of what I'm capable of is to check out these apps I've built for fun!!
 
-1. [Ema's Kitchen](https://github.com/vladr7/EmaFoods)     <img src="https://github.com/vladr7/Android-Portofolio-Showcase/blob/main/images/logoema.png" width="30">
+<div align="center">
+  <a href="https://github.com/vladr7/EmaFoods">Ema's Kitchen</a>
+  <img src="https://github.com/vladr7/Android-Portofolio-Showcase/blob/main/images/logoema.png" width="30">
+</div>
 
-2. [2ClapsAway](https://github.com/vladr7/FindMyPhoneClap)    <img src="https://github.com/vladr7/Android-Portofolio-Showcase/blob/main/images/logoclap.png" width="30">
+<div align="center">
+  <a href="https://github.com/vladr7/FindMyPhoneClap">2ClapsAway</a>
+  <img src="https://github.com/vladr7/Android-Portofolio-Showcase/blob/main/images/logoclap.png" width="30">
+</div>
 
-3. [LightAlarm](https://github.com/vladr7/SunAlarm)    <img src="https://github.com/vladr7/Android-Portofolio-Showcase/blob/main/images/logolight.png" width="30">
+<div align="center">
+  <a href="https://github.com/vladr7/SunAlarm">LightAlarm</a>
+  <img src="https://github.com/vladr7/Android-Portofolio-Showcase/blob/main/images/logolight.png" width="30">
+</div>
 
 
 <!-- CONTACT -->
