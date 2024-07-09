@@ -31,10 +31,26 @@
 
   <p align="center">
   Here I demonstrate my work (and skills) as Android Developer
+   <br />
+    <a href="https://github.com/vladr7/SunAlarm"><strong>Explore the docs »</strong></a>
+    <br />
+    <br />
+    ·
+    <a href="https://github.com/vladr7/SunAlarm/issues">Report Bug</a>
+    ·
+    <a href="https://github.com/vladr7/SunAlarm/issues">Request Feature</a>
   </p>
 </div>
 
-## You can get a good grasp of what I am capable by taking a look into these Apps I've built for fun
+## About Me
+
+Hi! :] I'm Vlad, working as Android Developer since 2021. I've starting to really like android development, especially since I begun working with compose, flows and coroutines!! I like going outside on walks, play tennis, ski, watch good movies (LOTR is my fav), playing games and recently started creating games for fun :], and reading good books. Overall I really enjoy creating stuff, I consider myself an artist and all the Apps/Games are my art. (highly recommend this book about how to make art: [The Creative Act](https://www.goodreads.com/book/show/60965426-the-creative-act). More books I've read are Meditations by Marcus Aurelius, Upward Spiral by Alex Korb, Immune by Phipip Dettmer aka Kurzgesagt.. etc. 
+If you wish to talk to me for some reason then text me! :]
+
+<!-- GETTING STARTED -->
+## Getting Started
+
+I find the best way to know of what I'm capable of is to check out these apps I've built for fun!!
 
 1. [Ema's Kitchen](https://github.com/vladr7/EmaFoods)
 
