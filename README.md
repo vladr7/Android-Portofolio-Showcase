@@ -32,13 +32,13 @@
   <p align="center">
   Here I demonstrate my work (and skills) as Android Developer
    <br />
-    <a href="https://github.com/vladr7/SunAlarm"><strong>Explore the docs »</strong></a>
+    <a href="https://github.com/vladr7"><strong>Explore the Repos »</strong></a>
     <br />
     <br />
     ·
-    <a href="https://github.com/vladr7/SunAlarm/issues">Report Bug</a>
+    <a href="https://github.com/vladr7/Android-Portofolio-Showcase/issues">Report Mistakes</a>
     ·
-    <a href="https://github.com/vladr7/SunAlarm/issues">Request Feature</a>
+    <a href="https://github.com/vladr7/Android-Portofolio-Showcase/issues">Request Info</a>
   </p>
 </div>
 
