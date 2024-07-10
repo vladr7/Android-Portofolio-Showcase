@@ -57,14 +57,16 @@ Android & Kotlin components I know to use:
 - Clean architecture
     - Data/Domain/Presentation modules
          - Data contains API's, database stuff
-         - Domain is the main logic of the app (interfaces of repositories and usecases)
+         - Domain is the main logic of the app (usecases & interfaces of repositories)
          - Presentation is the UI (viewmodels & composables/fragments)
-    - Have data models for each specific module type
-    - Mappers from one data type to another
-    - usecases (optional) that are used inside viewmodels
-    - viewmodels contain a state object that reflects how the UI looks like and then UI responds back with events (UDF pattern)
+    - Data Models: Separate data models for each specific module type
+    - Mappers: Transform data from one type to another
+    - Use Cases: Used inside ViewModels to handle business logic
+    - Viewmodels contain a state object that reflects how the UI looks like and then UI responds back with events (UDF pattern)
     - Repositories/DataSources should always use interfaces so that it's easier to unit test
     - Unit tests (know how to write code that is easily unit testable, that means using a lot of interfaces and single responsability principle)
+
+# Outside of work
 
 I like going outside on walks, play tennis, ski, watch good movies (LOTR is my fav), playing games and recently started creating games for fun :], and reading good books. I also like making jokes and laugh (who doesen't??) :]].
 
