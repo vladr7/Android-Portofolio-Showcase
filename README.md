@@ -48,7 +48,7 @@ Hi! :] I'm Vlad, working as Android Developer since 2021.
 
 I've starting to really like android development, especially since I begun working with compose, flows and coroutines!! 
 
-Android & Kotlin components I know to use:
+Expertise in Android & Kotlin Components:
 - Compose (UDF pattern)
 - Flows
 - Coroutines
