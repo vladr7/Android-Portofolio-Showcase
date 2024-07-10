@@ -66,7 +66,7 @@ Android & Kotlin components I know to use:
     - Repositories/DataSources should always use interfaces so that it's easier to unit test
     - Unit tests (know how to write code that is easily unit testable, that means using a lot of interfaces and single responsability principle)
 
-### Outside of work
+### In my spare time
 
 I like going outside on walks, play tennis, ski, watch good movies (LOTR is my fav), playing games and recently started creating games for fun :], and reading good books. I also like making jokes and laugh (who doesen't??) :]].
 
