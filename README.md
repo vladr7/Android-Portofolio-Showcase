@@ -86,7 +86,7 @@ I find the best way to know of what I'm capable of is to check out these apps I'
 
 3. [LightAlarm](https://github.com/vladr7/SunAlarm) <img src="https://github.com/vladr7/Android-Portofolio-Showcase/blob/main/images/logolight.png" width="30" align="middle">
 
-4. [SkiRental](https://github.com/RiceanVlad/SkiRentalBachelorDegree) <img src="https://github.com/vladr7/Android-Portofolio-Showcase/blob/main/images/logoski.png" width="30" align="middle">
+4. [SkiRental](https://github.com/RiceanVlad/SkiRentalBachelorDegree) <img src="https://github.com/vladr7/Android-Portofolio-Showcase/blob/main/images/ic_launcher_round.png" width="30" align="middle">
 
 
 <!-- CONTACT -->
