@@ -48,6 +48,24 @@ Hi! :] I'm Vlad, working as Android Developer since 2021.
 
 I've starting to really like android development, especially since I begun working with compose, flows and coroutines!! 
 
+Android & Kotlin components I know to use:
+- Compose (UDF pattern)
+- Flows
+- Coroutines
+- Extension functions
+- Compose native navigation 
+- Clean architecture
+    - Data/Domain/Presentation modules
+         - Data contains API's, database stuff
+         - Domain is the main logic of the app (interfaces of repositories and usecases)
+         - Presentation is the UI (viewmodels & composables/fragments)
+    - Have data models for each specific module type
+    - Mappers from one data type to another
+    - usecases (optional) that are used inside viewmodels
+    - viewmodels contain a state object that reflects how the UI looks like and then UI responds back with events (UDF pattern)
+    - Repositories/DataSources should always use interfaces so that it's easier to unit test
+    - Unit tests (know how to write code that is easily unit testable, that means using a lot of interfaces and single responsability principle)
+
 I like going outside on walks, play tennis, ski, watch good movies (LOTR is my fav), playing games and recently started creating games for fun :], and reading good books. I also like making jokes and laugh (who doesen't??) :]].
 
 Overall I really enjoy creating stuff, I consider myself an artist and all the Apps/Games are my art. (highly recommend this book about how to make art: [The Creative Act](https://www.goodreads.com/book/show/60965426-the-creative-act). 
