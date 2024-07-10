@@ -76,7 +76,7 @@ More books I've read are Meditations by Marcus Aurelius, Upward Spiral by Alex K
 If you wish to talk to me for some reason then text me! :]
 
 <!-- GETTING STARTED -->
-## My Masterpieces :]
+## My Projects
 
 I find the best way to know of what I'm capable of is to check out these apps I've built!!
 
